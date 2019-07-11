@@ -6,20 +6,20 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: I'm in the middle of the nanodegree: 52% of progress. I'm in Lesson 5 - Introducing Local and Global Differential Privacy (44%).<br/>
 :heavy_check_mark: I answered the 4 questions of the quiz *Boom with the Basics* at the #beginners Slack channel.<br/>
 :heavy_check_mark: I watched the "Secure and Private AI Scholarship Challenge Orientation Webinar": https://www.youtube.com/watch?v=XmyE4zjRJnI<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
 ![Day 1](images/Day%2001.jpg)
 
 :trumpet: *DAY 2 of 60: June 29, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: We organized and attend to our first meetup in Guayaquil, Ecuador. Look at the photos.<br/>
 :heavy_check_mark: We spent more than 4 hours in our meetup talking about #UdacityFacebookScholar, #60daysofudacity, and artificial intelligence in general.<br/>
 :heavy_check_mark: We also suggested 3 tentative projects to develop as a team, mainly healthcare projects in which the privacy of patients is important.<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
 ![Day 2](images/Day%2002.jpg)
 
 :trumpet: *DAY 3 of 60: June 30, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: My overall progress in this nanodegree is now 56%. I'm in *Lesson 5 - Introducing Local and Global Differential Privacy* (89% completed).<br/>
 :heavy_check_mark: I have implemented my own formula to deskew the query. However, my formula does look equal to the formula in the video. I tried to algebraically manipulate the formula in the video to transform it into my formula; but I couldn't. Fortunately, both formulas work well and produce values close to 0.5, as expected.<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
 ![Day 3](images/Day%2003.jpg)
 
 :trumpet: *DAY 4 of 60: July 1, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -50,7 +50,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: I asked to #ama_sessions a question about private messages, Study-Groups, and their channels: https://secureprivataischolar.slack.com/archives/CJF1DQDEW/p1562265842273700<br/>
 :heavy_check_mark: Today, I will meet a potential client who wants to hire me to build a deep learning system capable of analyzing the facial emotions of potential employees in the videos of job interviews. I will propose 2 approaches: One approach with only convnets and transfer learning with VGG16. And another approach with RNNs, convnets, and transfer learning with VGG16. RNNs are supposed to disambiguate patterns by analyzing context. I will also propose to analyze the emotions in their voices, not only their faces. I'm deeply thankful to Udacity for teaching me all these concepts in the previous PyTorch Facebook scholarship.<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
 ![Day 7](images/Day%2007.png)
 
 :trumpet: *DAY 8 of 60: July 5, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -60,7 +60,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: Today, I participated again in the competition *Boom with the Basics*. I answered 4 questions about artificial intelligence, 15 minutes per question. This contest was 1 intense hour of writing answers. Thank @Khush for your encouraging words.<br/>
 :heavy_check_mark: We, people from Ecuador, are really happy to see that our Study Group #sg_ecuador was created. People from Ecuador are invited to join us. Now we will use our own public channel #sg_ecuador instead of sending private messages.<br/>
 :heavy_check_mark: I also joined 2 Study Groups from Latin America: #sg_hispanic and #sg_latin.<br/>
-:heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.
+:heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 ![Day 8](images/Day%2008.png)
 
 :trumpet: *DAY 9 of 60: July 6, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -69,7 +69,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: I started to program the code of the machine learning system to deal with the medical dataset of the 2 diseases of the urinary system.<br/>
 :heavy_check_mark: I started to write the documentation of my final project, at least a basic structure of the essay.
 :heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Thank @Khush for your encouraging words. Moderators selected my answer to the *Question 2: What are the basic building blocks of a deep learning model?* https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562432616409400<br/>
-:heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.
+:heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 ![Day 9](images/Day%2009.jpg)
 
 :trumpet: *DAY 10 of 60: July 7, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -82,14 +82,14 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 *Nowadays, Artificial General Intelligence (AGI) is a legitimate and very active field of research, as you can see in these links:*
 https://agi.mit.edu/
 http://agi-conf.org/
-I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes: 
+I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes: <br/>
 
 :trumpet: *DAY 11 of 60: July 8, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: I have read an important message in #announcements regarding the requirement to create a github repository to track the progress of the final project. Therefore, I was reading a little bit about the Unix commands to handle github repositories. Here is the announcement: https://secureprivataischolar.slack.com/archives/CJQ1C1X08/p1562610830350200<br/>
 :heavy_check_mark: I have read another message in #announcements about the #sg_project-t-shirt competition. So, I was thinking about how to generate art with style transfer and generative adversarial networks, aka GANs. Here is the link of the #sg_project-t-shirt competition: http://bit.ly/tshirt-project_spaic<br/>
 :heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence, 15 minutes per question. This contest was *1 intense hour* of writing answers. This is the link for Question 4: What is PCA? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562598916473600<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
-:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 11](images/Day%2011.jpg)
 
 :trumpet: *DAY 12 of 60: July 9, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -103,9 +103,9 @@ I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes:
 :heavy_check_mark: I watched again all the video lectures of *Lesson 8 - Securing Federated Learning*.<br/>
 :heavy_check_mark: I watched again all the video lectures of *Lesson 9 - Encrypted Deep Learning*.<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
-:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
-![Day 12](images/Day%2012%20-%20-1.jpeg)
-![Day 12](images/Day%2012%20-%20-1.jpeg)
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
+![Day 12](images/Day%2012%20-%201.jpeg)
+![Day 12](images/Day%2012%20-%202.jpeg)
 
 
 :trumpet: *DAY 13 of 60: July 10, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
