@@ -104,3 +104,6 @@ I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes:
 :heavy_check_mark: I watched again all the video lectures of *Lesson 9 - Encrypted Deep Learning*.<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
+
+
+![Day 13](images/Day%2013.png)
