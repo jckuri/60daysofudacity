@@ -28,20 +28,23 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: Today, I participated again in the competition *Boom with the Basics*.<br/>
 :heavy_check_mark: I participated in the *Quote of the Week competition* at #motivation. My quote was: "The time we spend pursuing our dreams is never wasted because time passes anyways. The time we spend doubting our potential is always wasted because we can learn new skills."<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
+![Day 4](images/Day%2004.jpg)
 
 :trumpet: *DAY 5 of 60: July 2, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: My overall progress in this nanodegree is now 69%. I'm in *Lesson 7 - Federated Learning* (23% completed).<br/>
 :heavy_check_mark: I created the Study-Group *Ecuatorianos* whose members are Ecuadorians who want to attend meetups in Guayaquil, Ecuador. Our initial members are @Juan Carlos Kuri Pinto, @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo. But moderators and people from Ecuador are invited to join us. By using this link from the channel #announcements, you can create your own Study-Group: https://secureprivataischolar.slack.com/archives/CJQ1C1X08/p1562040523196200<br/>
 :heavy_check_mark: We, students from Ecuador, are glad to see the photo of our first meetup in Guayaquil, Ecuador in the mass e-mail of Udacity. Thank Udacity so much. We are deeply honored and motivated to continue! :party-parrot:<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
+![Day 5](images/Day%2005.jpg)
 
 :trumpet: *DAY 6 of 60: July 3, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: My overall progress in this nanodegree is now 73%. I'm in *Lesson 7 - Federated Learning* (46% completed).<br/>
 :heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 1: What is the design matrix (also as known as feature matrix)? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562132656276200<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, and @Ruben Romo to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
+![Day 6](images/Day%2006.jpg)
 
 :trumpet: *DAY 7 of 60: July 4, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: My overall progress in this nanodegree is now 91%. I'm in *Lesson 9 - Encrypted Deep Learning* (11% completed).<br/>
@@ -83,6 +86,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 https://agi.mit.edu/
 http://agi-conf.org/
 I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes: <br/>
+![Day 10](images/Day%2010.jpg)
 
 :trumpet: *DAY 11 of 60: July 8, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: I have read an important message in #announcements regarding the requirement to create a github repository to track the progress of the final project. Therefore, I was reading a little bit about the Unix commands to handle github repositories. Here is the announcement: https://secureprivataischolar.slack.com/archives/CJQ1C1X08/p1562610830350200<br/>
