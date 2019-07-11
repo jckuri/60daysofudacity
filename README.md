@@ -6,7 +6,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: I'm in the middle of the nanodegree: 52% of progress. I'm in Lesson 5 - Introducing Local and Global Differential Privacy (44%).<br/>
 :heavy_check_mark: I answered the 4 questions of the quiz *Boom with the Basics* at the #beginners Slack channel.<br/>
 :heavy_check_mark: I watched the "Secure and Private AI Scholarship Challenge Orientation Webinar": https://www.youtube.com/watch?v=XmyE4zjRJnI<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
 ![Day 1](images/Day\ 01.jpg)
 
 :trumpet: *DAY 2 of 60: June 29, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -14,6 +14,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: We spent more than 4 hours in our meetup talking about #UdacityFacebookScholar, #60daysofudacity, and artificial intelligence in general.<br/>
 :heavy_check_mark: We also suggested 3 tentative projects to develop as a team, mainly healthcare projects in which the privacy of patients is important.<br/>
 :heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
+
 ![Day 2](images/Day\ 02.jpg)
 
 :trumpet: *DAY 3 of 60: June 30, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
