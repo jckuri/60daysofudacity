@@ -6,7 +6,7 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: I'm in the middle of the nanodegree: 52% of progress. I'm in Lesson 5 - Introducing Local and Global Differential Privacy (44%).<br/>
 :heavy_check_mark: I answered the 4 questions of the quiz *Boom with the Basics* at the #beginners Slack channel.<br/>
 :heavy_check_mark: I watched the "Secure and Private AI Scholarship Challenge Orientation Webinar": https://www.youtube.com/watch?v=XmyE4zjRJnI<br/>
-:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.<br/>
+:heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
 ![Day 1](images/Day%2001.jpg)
 
 :trumpet: *DAY 2 of 60: June 29, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -14,7 +14,6 @@ My daily activities for the #60daysofudacity pledge of the Secure and Private AI
 :heavy_check_mark: We spent more than 4 hours in our meetup talking about #UdacityFacebookScholar, #60daysofudacity, and artificial intelligence in general.<br/>
 :heavy_check_mark: We also suggested 3 tentative projects to develop as a team, mainly healthcare projects in which the privacy of patients is important.<br/>
 :heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
-
 ![Day 2](images/Day%2002.jpg)
 
 :trumpet: *DAY 3 of 60: June 30, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
@@ -91,6 +90,7 @@ I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes:
 :heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence, 15 minutes per question. This contest was *1 intense hour* of writing answers. This is the link for Question 4: What is PCA? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562598916473600<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
+![Day 11](images/Day%2011.jpg)
 
 :trumpet: *DAY 12 of 60: July 9, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: Today I went to the Mechatronics Lab at ESPOL <http://www.espol.edu.ec/> in order to have a long meeting (3 hours) with @Christian Tutivén (our classmate of #UdacityFacebookScholar, professor of Mechatronics, and ambassador of STEAM Center and Saturdays.AI), Jaime Palomeque (ambassador of STEAM Center and Saturdays.AI), and some professors of Mechatronics. And we talked about many things:
@@ -104,6 +104,9 @@ I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes:
 :heavy_check_mark: I watched again all the video lectures of *Lesson 9 - Encrypted Deep Learning*.<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
+![Day 12](images/Day%2012%20-%20-1.jpeg)
+![Day 12](images/Day%2012%20-%20-1.jpeg)
 
 
+:trumpet: *DAY 13 of 60: July 10, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 ![Day 13](images/Day%2013.png)
