@@ -92,6 +92,7 @@ I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes:
 - PySyft and PyTorch;
 - my involvement in a Deep Learning startup to analyze facial emotions, verbal emotions, and body language;
 - some ideas to analyze facial emotions by using convnets, facial landmarks, RNNs, and GANs.<br/>
+
 :heavy_check_mark: I watched again all the video lectures of *Lesson 8 - Securing Federated Learning*.<br/>
 :heavy_check_mark: I watched again all the video lectures of *Lesson 9 - Encrypted Deep Learning*.<br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
