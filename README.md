@@ -113,4 +113,12 @@ I have so many ideas and papers to publish in the AGI Conferences. :heart_eyes: 
 
 
 :trumpet: *DAY 13 of 60: July 10, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 3: What is a hyperparameter?<br/>
+https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562759109025700<br/>
+To be honest, I will keep participating in *Boom with the Basics* even if I will lose one or many times. I love the rush of adrenaline provoked by exam-like questions for 1 intense hour. I reminds me of my experiences at ESPOL and Georgia Institute of Technology. And it prepares me for the Ph.D. in machine learning I plan to study.<br/>
+:heavy_check_mark: I continue learning the Unix commands to handle github repositories. So, I will be able to track the progress of my final project.<br/>
+:heavy_check_mark: I watched some YouTube videos of Siraj Raval on style transfer and generative adversarial networks, aka GANs, in order to participate in the #sg_project-t-shirt competition: http://bit.ly/tshirt-project_spaic<br/>
+:heavy_check_mark: I created my first design for the #sg_project-t-shirt competition. Not exactly the correct use of style transfer and GANs. But it is Anakin saying: "I pledge myself to ~your teachings.~ #60daysofudacity" :joy:<br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 13](images/Day%2013.png)
