@@ -1,4 +1,4 @@
-# 60daysofudacity
+# \#60daysofudacity
 My daily activities for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge with Facebook.
 
 :trumpet: *DAY 1 of 60:* #60daysofudacity #UdacityFacebookScholar<br/>
