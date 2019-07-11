@@ -1,11 +1,11 @@
 # 60daysofudacity
 My daily activities for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge with Facebook.
 
-:trumpet: *DAY 1 of 60:* #60daysofudacity #UdacityFacebookScholar
-:heavy_check_mark: Took the #60daysofudacity pledge.
-:heavy_check_mark: I'm in the middle of the nanodegree: 52% of progress. I'm in Lesson 5 - Introducing Local and Global Differential Privacy (44%).
-:heavy_check_mark: I answered the 4 questions of the quiz *Boom with the Basics* at the #beginners Slack channel.
-:heavy_check_mark: I watched the "Secure and Private AI Scholarship Challenge Orientation Webinar": https://www.youtube.com/watch?v=XmyE4zjRJnI
+:trumpet: *DAY 1 of 60:* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Took the #60daysofudacity pledge.<br/>
+:heavy_check_mark: I'm in the middle of the nanodegree: 52% of progress. I'm in Lesson 5 - Introducing Local and Global Differential Privacy (44%).<br/>
+:heavy_check_mark: I answered the 4 questions of the quiz *Boom with the Basics* at the #beginners Slack channel.<br/>
+:heavy_check_mark: I watched the "Secure and Private AI Scholarship Challenge Orientation Webinar": https://www.youtube.com/watch?v=XmyE4zjRJnI<br/>
 :heavy_check_mark: I will continue watching the lectures of the nanodegree and programming the associated Jupyter notebooks.
 
 trumpet: *DAY 2 of 60: June 29, 2019* #60daysofudacity #UdacityFacebookScholar
