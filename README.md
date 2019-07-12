@@ -123,3 +123,17 @@ To be honest, I will keep participating in *Boom with the Basics* even if I will
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 13](images/Day%2013.png)
+
+:trumpet: *DAY 14 of 60: July 11, 2019* #60daysofudacity #UdacityFacebookScholar
+:heavy_check_mark: I found and watched this incredible video of Siraj Raval, which is quite relevant for the channel #sg_project-t-shirt
+Generative Adversarial Networks for Style Transfer (LIVE) [1 hour] https://youtu.be/MgdAe-T8obE
+And I shared it in many channels of this nanodegree.
+:heavy_check_mark: I continued programming the code of the machine learning system to deal with the medical dataset of the 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*.
+:heavy_check_mark: In few days, I will share the code of my final project through an open github repository. At the beginning, I was hesitant to share my code, due to plagiarism. (Our Universities are so obsessed about plagiarism and teach such obsession.) But the point of #UdacityFacebookScholar is to help our classmates. So, I decided to open my source code to help my classmates understand better the concepts of this nanodegree. Here is how I changed my mind in this thread: https://secureprivataischolar.slack.com/archives/CJW72L5D2/p1562785075337700
+And I will program my final project as a Jupyter notebook explaining in detail what I did, in order to educate the readers.
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.
+:heavy_check_mark: I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, and @PaulBruce.
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
+![Day 14](images/Day%2014.png)
