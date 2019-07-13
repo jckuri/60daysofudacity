@@ -137,3 +137,14 @@ And I will program my final project as a Jupyter notebook explaining in detail w
 I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 14](images/Day%2014.png)
+
+:trumpet: *DAY 15 of 60: July 12, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence, 15 minutes per question. This contest was *1 intense hour* of writing answers. This is the link for Question 3: What are some common optimizers for neural nets? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562943610101900<br/>
+:heavy_check_mark: I continued programming the code of the machine learning system to deal with the medical dataset of the 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*.<br/>
+:heavy_check_mark: I thought deeply about the limitless possibilities of GANs, used along with other powerful deep learning techniques.<br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, and @PaulBruce.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
+![Day 15](images/Day%2015.png)
