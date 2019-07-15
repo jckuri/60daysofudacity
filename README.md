@@ -158,3 +158,6 @@ I also posted my daily activities on the Facebook group: https://www.facebook.co
 I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 16](images/Day%2016.png)
+
+
+![Day 17](images/Day%2017.png)
