@@ -159,5 +159,14 @@ I also posted my daily activities on the Facebook group: https://www.facebook.co
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 16](images/Day%2016.png)
 
-
+:trumpet: *DAY 17 of 60: July 14, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I continued programming the code of the machine learning system to deal with the medical dataset of the 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*.<br/>
+:heavy_check_mark: I'm really stuck with a programming error when doing logistic regression in the Jupyter notebook of my final project.<br/>
+:heavy_check_mark: I created the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+However, it contains errors, yet. <br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, and @PaulBruce.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 17](images/Day%2017.png)
