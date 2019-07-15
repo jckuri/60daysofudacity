@@ -161,7 +161,7 @@ I also posted my daily activities on the Facebook group: https://www.facebook.co
 
 :trumpet: *DAY 17 of 60: July 14, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: I continued programming the code of the machine learning system to deal with the medical dataset of the 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*.<br/>
-:heavy_check_mark: I'm really stuck with a programming error when doing logistic regression in the Jupyter notebook of my final project.<br/>
+:heavy_check_mark: I'm really stuck with a programming error when doing logistic regression in the Jupyter notebook of my final project. See the photo.<br/>
 :heavy_check_mark: I created the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 However, it contains errors, yet. <br/>
 :heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
