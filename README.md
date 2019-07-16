@@ -170,3 +170,23 @@ However, it contains errors, yet. <br/>
 I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 17](images/Day%2017.png)
+
+:trumpet: *DAY 18 of 60: July 15, 2019* #60daysofudacity #UdacityFacebookScholar
+:heavy_check_mark: I continued programming the machine learning system to deal with the medical dataset of 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*. *Here is the github repository of my final project: https://github.com/jckuri/BladderDataset *
+:heavy_check_mark: I managed to correct the programming error of my final project and now my accuracies in the train dataset and test dataset are 100%. It is that accurate because the dataset is linearly-separable.
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence, 15 minutes per question. This contest was *1 intense hour* of writing answers.
+:heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 4: What is the cumulative distribution function (CDF)? Try to type the equation as well.
+https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1562944539105800
+:heavy_check_mark: I attended this Webinar: AMA with Robert Wagner | Secure & Private AI Challenge Scholarships
+https://www.youtube.com/watch?v=9D_jxOMZmRI
+And I asked this question: *For my final project, I work with a linearly-separable dataset. Because I'm afraid that PySyft cannot handle more complex deep learning models. How complex are the neural networks that PySyft can process?*
+:heavy_check_mark: I watched this YouTube video of Siraj Raval: Generating Pokemon with a Generative Adversarial Network
+https://www.youtube.com/watch?v=yz6dNf7X7SA
+:heavy_check_mark: I watched this YouTube video of Siraj Raval: Capsule Networks: An Improvement to Convolutional Networks
+https://www.youtube.com/watch?v=VKoLGnq15RM
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.
+:heavy_check_mark: I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, and @PaulBruce.
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.
+![Day 18](images/Day%2018.png)
