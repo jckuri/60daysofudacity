@@ -190,3 +190,18 @@ https://www.youtube.com/watch?v=VKoLGnq15RM<br/>
 I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 18](images/Day%2018.png)
+
+:trumpet: *DAY 19 of 60: July 16, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I continued programming the machine learning system to deal with the medical dataset of 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+:heavy_check_mark: I carefully read, thrice, this excellent blog about Hinton's Capsule Networks:<br/>
+https://cezannec.github.io/Capsule_Networks/<br/>
+I ran and read its associated Jupyter notebok "Capsule Network in PyTorch" at: https://github.com/cezannec/capsule_net_pytorch<br/>
+And I carefully read the associated Hinton's paper "Dynamic Routing Between Capsules": https://arxiv.org/pdf/1710.09829.pdf<br/>
+:heavy_check_mark: I replied to this *ICE BREAKER:* If you were to create a movie on AI, what will be the title and plot?<br/>
+https://secureprivataischolar.slack.com/archives/CJW72L5D2/p1563288396197800?thread_ts=1563287694.193300&cid=CJW72L5D2<br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, and @PaulBruce.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
+![Day 19](images/Day%2019.png)
