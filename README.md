@@ -205,3 +205,13 @@ https://secureprivataischolar.slack.com/archives/CJW72L5D2/p1563288396197800?thr
 I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 19](images/Day%2019.png)
+
+:trumpet: *DAY 20 of 60: July 17, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I continued programming the machine learning system to deal with the medical dataset of 2 diseases of the urinary system: *Inflammation of urinary bladder* and *Nephritis of renal pelvis origin*. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+:heavy_check_mark: For a second time, I read this Jupyter notebok "Capsule Network in PyTorch" at: https://github.com/cezannec/capsule_net_pytorch<br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I encouraged them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, and @PaulBruce.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
+![Day 20](images/Day%2020.png)
