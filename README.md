@@ -218,7 +218,7 @@ I also posted my daily activities on the Facebook group: https://www.facebook.co
 
 :trumpet: *DAY 21 of 60: July 18, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 3: What is sensitivity analysis for? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1563457372260400<br/>
-:heavy_check_mark: Today I seriously thought about the t-shirt design. I searched and found some awesome images to project in abstract feature spaces à la style transfer and GANs. I already designed everything in my mind. And I will create a github repository with a Jupyter notebook to create my t-shirt design programmatically from scratch.<br/>
+:heavy_check_mark: Today I seriously thought about my t-shirt design at #sg_project-t-shirt. I searched and found some awesome images to project in abstract feature spaces à la style transfer and GANs. I already designed everything in my mind. And I will create a github repository with a Jupyter notebook to create my t-shirt design programmatically from scratch.<br/>
 :heavy_check_mark: I watched this 1-hour video: Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt https://www.youtube.com/watch?v=8_vhbNpyIk4<br/>
 And I read all the resources of its associated github repository: https://github.com/parthatom/GANonTshirtTutorial<br/>
 :heavy_check_mark: I ran and read the Jupyter notebook at: Deep Learning Nano Degree - Face Generation https://github.com/sinha-kirti/face-generation-with-GAN/<br/>
