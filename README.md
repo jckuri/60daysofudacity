@@ -216,5 +216,15 @@ I also posted my daily activities on the Facebook group: https://www.facebook.co
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project.<br/>
 ![Day 20](images/Day%2020.png)
 
-
+:trumpet: *DAY 21 of 60: July 18, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 3: What is sensitivity analysis for? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1563457372260400<br/>
+:heavy_check_mark: Today I seriously thought about the t-shirt design. I searched and found some awesome images to project in abstract feature spaces à la style transfer and GANs. I already designed everything in my mind. And I will create a github repository with a Jupyter notebook to create my t-shirt design programmatically from scratch.<br/>
+:heavy_check_mark: I watched this 1-hour video: Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt https://www.youtube.com/watch?v=8_vhbNpyIk4<br/>
+And I read all the resources of its associated github repository: https://github.com/parthatom/GANonTshirtTutorial<br/>
+:heavy_check_mark: I ran and read the Jupyter notebook at: Deep Learning Nano Degree - Face Generation https://github.com/sinha-kirti/face-generation-with-GAN/<br/>
+:heavy_check_mark: I ran and read the Jupyter notebook at: NEURAL TRANSFER USING PYTORCH https://pytorch.org/tutorials/advanced/neural_style_tutorial.html<br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, and @Droid. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
 ![Day 21](images/Day%2021.png)
