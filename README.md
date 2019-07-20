@@ -229,4 +229,19 @@ I also posted my daily activities on the Facebook group: https://www.facebook.co
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
 ![Day 21](images/Day%2021.png)
 
+:trumpet: *DAY 22 of 60: July 19, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence, 15 minutes per question. This contest was *1 intense hour* of writing answers.<br/>
+:heavy_check_mark: For a second time, I ran and read the Jupyter notebook at: NEURAL TRANSFER USING PYTORCH https://pytorch.org/tutorials/advanced/neural_style_tutorial.html<br/>
+I highly recommend this Jupyter notebook to those who will participate in the #sg_project-t-shirt competition.<br/>
+:heavy_check_mark: I did my first experiments of transferring the style of abstract designs into real-world images, for the #sg_project-t-shirt competition. But the results are not satisfactory, yet. See the photo.<br/>
+:heavy_check_mark: I watched this YouTube video:<br/>
+True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo<br/>
+https://www.youtube.com/watch?v=-Y7PLaxXUrs<br/>
+Prof. Schmidhuber said some really powerful statements:<br/>
+"There will be a little computational device that can compute as much as all 10 billion human brains taken together and there will not only be one of those devices but many." :flushed: <br/>
+"Technological evolution is a million times faster than biological evolution." :flushed: <br/>
+:heavy_check_mark: I motivated my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encouraged back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, and @Droid. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
 ![Day 22](images/Day%2022.png)
