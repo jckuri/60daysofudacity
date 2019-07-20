@@ -228,3 +228,5 @@ And I read all the resources of its associated github repository: https://github
 I also posted my daily activities on the Facebook group: https://www.facebook.com/groups/secureandprivateai/<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
 ![Day 21](images/Day%2021.png)
+
+![Day 22](images/Day%2022.png)
