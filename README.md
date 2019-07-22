@@ -257,4 +257,4 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
 ![Day 23](images/Day%2023.jpg)
 
-![Day 24](images/Day%2024.png)
+![Day 24](images/Day%2024.jpeg)
