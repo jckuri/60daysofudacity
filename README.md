@@ -272,3 +272,5 @@ I will try to stick to these 3 pledges for the rest of my life. Dedicating only 
 I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 24](images/Day%2024.jpeg)
+
+![Day 25](images/Day%2025.png)
