@@ -273,4 +273,16 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 24](images/Day%2024.jpeg)
 
+:trumpet: *DAY 25 of 60: July 22, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1563805806048500<br/>
+:heavy_check_mark: I watched this video tutorial: Capsule Networks (CapsNets) – Tutorial (By Aurélien Géron) https://www.youtube.com/watch?v=pPN8d0E3900<br/>
+:heavy_check_mark: I found this OpenCV documentation which is relevant for the #sg_project-t-shirt competition: OpenCV-Python Tutorials >> Image Processing in OpenCV https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html<br/>
+:heavy_check_mark: I read this tutorial: Install OpenCV-Python in Ubuntu https://docs.opencv.org/3.4.1/d2/de6/tutorial_py_setup_in_ubuntu.html<br/>
+:heavy_check_mark: I read this StackOverflow question: Copy and paste region of image in opencv?
+ https://stackoverflow.com/questions/32741980/copy-and-paste-region-of-image-in-opencv<br/>
+:heavy_check_mark: Perl is useful to metaprogram scripts because Perl is good at manipulating text. I read this Perl tutorial: Learn Perl in about 2 hours 30 minutes https://qntm.org/files/perl/perl.html<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, and @Pranjal Chaubey. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 25](images/Day%2025.png)
