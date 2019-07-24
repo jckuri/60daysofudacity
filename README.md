@@ -286,3 +286,20 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 25](images/Day%2025.png)
+
+:trumpet: *DAY 26 of 60: July 23, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I'm deeply honored to be one of the winners of the competition *Boom with the Basics*. I'll keep participating even if I lose sometimes because it's a lot of fun and a great mental exercise. Moderators selected my answer to the Question 1: Describe Leaky ReLU. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1563902577117700<br/>
+:heavy_check_mark: I deeply regret that I never subscribed to this wonderful MOOC which is not offered by Udacity anymore:<br/>
+Udacity CS344: Intro to Parallel Programming https://developer.nvidia.com/udacity-cs344-intro-parallel-programming<br/>
+However, I found and downloaded the github repository of its code:<br/>
+cs344 Introduction to Parallel Programming class code https://github.com/udacity/cs344<br/>
+And I found and downloaded all the video lectures by using the Ubuntu app called Ultimate Media Downloader:<br/>
+Intro to Parallel Programming (YouTube playlist) https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2<br/>
+I want to become a CUDA expert because the final solution to artificial general intelligence (AGI) must be programmed no more than 20,000 lines of CUDA code, that simple. Why? Because only principles of intelligence should be programmed. And the infinite number of expressions of intelligence must be learned and self-organized. <br/>
+:heavy_check_mark: I read the blog "An Even Easier Introduction to CUDA" and ran its code on my GPU: https://devblogs.nvidia.com/even-easier-introduction-cuda/<br/>
+:heavy_check_mark: I continue programming the Jupyter notebook to generate my t-shirt design programmatically from scratch, for the #sg_project-t-shirt competition. And I will update my github repository: https://github.com/jckuri/project-t-shirt<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, and @risper bevalyn . I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
+![Day 26](images/Day%2026.png)
