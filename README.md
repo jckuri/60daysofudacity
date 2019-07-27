@@ -322,3 +322,16 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 28](images/Day%2028.png)
+
+:trumpet: *DAY 29 of 60: July 26, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1564151407199100<br/>
+:heavy_check_mark: I continue programming the Jupyter notebook to generate my t-shirt design programmatically from scratch, for the #sg_project-t-shirt competition. And I will update my github repository: https://github.com/jckuri/project-t-shirt<br/>
+:heavy_check_mark: I uploaded some generated images for the #sg_project-t-shirt competition in the Facebook group. (See the images!)<br/>
+:heavy_check_mark: I watched this video lecture about building Artificial General Intelligence (AGI), given by Prof. Bengio, one of the godfathers of Deep Learning.<br/>
+"Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles | Yoshua Bengio"<br/>
+https://www.youtube.com/watch?v=IU9cQ1JdC7Y<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, and @risper bevalyn . I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+![Day 29](images/Day%2029.png)
