@@ -326,7 +326,7 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 :trumpet: *DAY 29 of 60: July 26, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1564151407199100<br/>
 :heavy_check_mark: I continue programming the Jupyter notebook to generate my t-shirt design programmatically from scratch, for the #sg_project-t-shirt competition. And I will update my github repository: https://github.com/jckuri/project-t-shirt<br/>
-:heavy_check_mark: I uploaded some generated images for the #sg_project-t-shirt competition in the Facebook group. (See the images!)<br/>
+:heavy_check_mark: I uploaded some generated images for the #sg_project-t-shirt competition in the Facebook group. (See the images! :brain: :fire: :snowflake:)<br/>
 :heavy_check_mark: I watched this video lecture about building Artificial General Intelligence (AGI), given by Prof. Bengio, one of the godfathers of Deep Learning.<br/>
 "Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles | Yoshua Bengio"<br/>
 https://www.youtube.com/watch?v=IU9cQ1JdC7Y<br/>
