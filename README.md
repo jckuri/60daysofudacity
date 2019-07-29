@@ -347,3 +347,12 @@ How To Make Your First Shirt Design In Photoshop For Free https://www.youtube.co
 I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 30](images/Day%2030.png)
+
+:trumpet: *DAY 31 of 60: July 28, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I continue programming the Jupyter notebook to generate my t-shirt design programmatically from scratch, for the #sg_project-t-shirt competition. And I will update my github repository: https://github.com/jckuri/project-t-shirt<br/>
+By using Python (a Jupyter notebook), PyTorch (style transfer), and Pillow (copy and paste images), I finished programming my first final design for the #sg_project-t-shirt competition. Its dimensions are 1300 x 2213 pixels. *To be honest, I would like to wear such t-shirt. It's beautiful.* See the photo! :brain: :party-dinosaur: :party_parrot:<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, and @risper bevalyn . I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+![Day 31](images/Day%2031.png)
