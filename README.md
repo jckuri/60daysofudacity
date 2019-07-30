@@ -356,3 +356,13 @@ By using Python (a Jupyter notebook), PyTorch (style transfer), and Pillow (copy
 I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 31](images/Day%2031.png)
+
+:trumpet: *DAY 32 of 60: July 29, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 3: What is the exploding gradient problem? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1564410223275900<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 2 questions and then Slack was down for a while. So, tomorrow we will participate again at the same hour. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1564410610277500<br/>
+:heavy_check_mark: I continue programming the Jupyter notebook to generate my t-shirt design programmatically from scratch, for the #sg_project-t-shirt competition. And I will update my github repository: https://github.com/jckuri/project-t-shirt<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, and @risper bevalyn . I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset<br/>
+![Day 32](images/Day%2032.png)
