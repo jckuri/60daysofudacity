@@ -376,3 +376,26 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
 :eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
 ![Day 33](images/Day%2033.png)
+
+:trumpet: *DAY 34 of 60: July 31, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today is the deadline to upload our t-shirt designs for the #sg_project-t-shirt competition. Tomorrow, I will update my github repository and I will make it public. So, everybody can see how I programmed my t-shirt designs: https://github.com/jckuri/project-t-shirt<br/>
+Here are my final designs for the #sg_project-t-shirt competition:<br/>
+:brain: My first final design:<br/>
+https://secureprivataischolar.slack.com/archives/CL7F9DG7R/p1564604101298800?thread_ts=1564603950.298300&cid=CL7F9DG7R<br/>
+:brain: My second final design:<br/>
+https://secureprivataischolar.slack.com/archives/CL7F9DG7R/p1564594074284000?thread_ts=1564593665.283400&cid=CL7F9DG7R<br/>
+:brain: My third final design:<br/>
+https://secureprivataischolar.slack.com/archives/CL7F9DG7R/p1564596655285600?thread_ts=1564596182.284700&cid=CL7F9DG7R<br/>
+:brain: My fourth final design:<br/>
+https://secureprivataischolar.slack.com/archives/CL7F9DG7R/p1564601541296600?thread_ts=1564600639.291400&cid=CL7F9DG7R<br/>
+:brain: My fifth final design:<br/>
+https://secureprivataischolar.slack.com/archives/CL7F9DG7R/p1564604484301000?thread_ts=1564604256.300300&cid=CL7F9DG7R<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, and @Elizabeth W. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+![Day 34](images/Day%2034%20-%20DESIGN%201.png)
+![Day 34](images/Day%2034%20-%20DESIGN%202.png)
+![Day 34](images/Day%2034%20-%20DESIGN%203.png)
+![Day 34](images/Day%2034%20-%20DESIGN%204.png)
+![Day 34](images/Day%2034%20-%20DESIGN%205.png)
