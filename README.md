@@ -399,3 +399,14 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 ![Day 34](images/Day%2034%20-%20DESIGN%203.png)
 ![Day 34](images/Day%2034%20-%20DESIGN%204.png)
 ![Day 34](images/Day%2034%20-%20DESIGN%205.png)
+
+:trumpet: *DAY 35 of 60: August 1, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I updated my github repository for the #sg_project-t-shirt competition and I made it public. So, now everybody can see how I programmed my t-shirt designs: https://github.com/jckuri/project-t-shirt<br/>
+:heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 1: Describe the F-statistic. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1564684909351400<br/>
+:heavy_check_mark: I read all the rules and watched the introductory video of *AWS DeepRacer Scholarship Challenge*: https://www.udacity.com/aws-deepracer-scholarship<br/>
+:heavy_check_mark: I attended the live webinar of Prof. Fei-Fei Li and Prof. Sebastian Thrun called *Putting Humans at the Center of AI*. They talked about interesting ideas: Artificial Intelligence will enhance humans instead of replacing humans. Artificial Intelligence already has human values embedded in it. Artificial Intelligence is not part of computer science anymore. AI is rather multidisciplinary. Knowledge of neuroscience enhances our understanding of AI.<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, and @Elizabeth W. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+I also posted my daily activities on the Facebook group and the LinkedIn group.<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset <br/>
+![Day 35](images/Day%2035.png)
