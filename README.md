@@ -431,3 +431,47 @@ I also posted my daily activities on the Facebook group and the LinkedIn group.<
 :eye: P.S. In August 1, 2019, I finished programming my github repository for the #sg_project-t-shirt competition and I made it public. So, everybody can see how I programmed my t-shirt designs: https://github.com/jckuri/project-t-shirt<br/>
 ![Day 37](images/Day%2037-1.png)
 ![Day 37](images/Day%2037-2.png)
+
+:trumpet: *DAY 38 of 60: August 4, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I organized with @Helena Barmer our webinar on *Deep Reinforcement Learning*: https://secureprivataischolar.slack.com/archives/CL18TQ06N/p1564960046169500<br/>
+Here is the agenda for Friday, August 9th:<br/>
+:pushpin: What is Deep RL?<br/>
+:pushpin: Search Algorithms and Reinforcement Learning<br/>
+:pushpin: Markov Models for Perception and Markov Decision Processes for Action<br/>
+:pushpin: Markov Decision Process in Grid World<br/>
+:pushpin: Deep RL for complex states<br/>
+:pushpin: Is deep learning inspired by biology?<br/>
+:pushpin: Neural networks are both discriminative classifiers and generative classifiers<br/>
+:pushpin: Homeomorphisms (projections) toward lower-dimensionality spaces<br/>
+:pushpin: Deep Abstractions as Funnels<br/>
+:pushpin: Cybenko's Universal Approximation Theorem<br/>
+:pushpin: Expressive power of Deep RL<br/>
+:pushpin: Correspondences with cortical columns<br/>
+:pushpin: NLP requires WIDE learning and massive parallelism<br/>
+:pushpin: What are feelings?<br/>
+:pushpin: Learning inverses instead of deducing them<br/>
+:pushpin: DQN Lunar Lander<br/>
+:pushpin: AGI will have 20,000 lines of CUDA code<br/>
+:pushpin: Application: Buying and selling stocks<br/>
+:pushpin: Application: Stanford Helicopter<br/>
+:pushpin: Application: Self-Driving Cars<br/>
+:pushpin: Application: Playing Atari with Deep Reinforcement Learning<br/>
+:pushpin: Application: Alpha Go and Alpha Go Zero<br/>
+:pushpin: Application: Alpha Zero masters chess in 4 hours<br/>
+:pushpin: Application: Festo’s animal robots<br/>
+:pushpin: Application: Optimizing Electric Networks<br/>
+:pushpin: Application: OpenAI for Dota 2<br/>
+:pushpin: Application: DeepMind AlphaStar for Starcraft 2<br/>
+:pushpin: Application: ASIMO<br/>
+:pushpin: Application: Boston Dynamics, Atlas, Big Dog, Spot Mini<br/>
+:pushpin: Application: Fourier Network Search<br/>
+:pushpin: Kurzweil’s Law of Accelerating Returns<br/>
+:pushpin: Resources<br/>
+:pushpin: Q & A<br/>
+:heavy_check_mark: I created a new github repository with the documentation, electronic parts, and source code of my line-follower robot. And I posted it on the Slack channel #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:heavy_check_mark: I posted my daily activities on the Slack channel #60daysofudacity, the Facebook group, and the LinkedIn group. I updated my github repository to track my daily activities with photos for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge: https://github.com/jckuri/60daysofudacity<br/>
+:eye: P.S. In July 5, 2019, I have finished to watch all the video lectures of this nanodegree. My overall progress is 100%. So, now I'm focused on the final project. And I will surely watch again some video lectures if I have problems with my final project. Here is the github repository of my final project: https://github.com/jckuri/BladderDataset  <br/>
+:eye: P.S. In August 1, 2019, I finished programming my github repository for the #sg_project-t-shirt competition and I made it public. So, everybody can see how I programmed my t-shirt designs: https://github.com/jckuri/project-t-shirt<br/>
+![Day 38](images/Day%2038-1.png)
+![Day 38](images/Day%2038-2.png)
