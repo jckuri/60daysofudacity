@@ -476,3 +476,16 @@ https://secureprivataischolar.slack.com/archives/CL18TQ06N/p1564974066173700<br/
 :eye: P.S. In August 1, 2019, I finished programming my github repository for the #sg_project-t-shirt competition and I made it public. So, everybody can see how I programmed my t-shirt designs: https://github.com/jckuri/project-t-shirt<br/>
 ![Day 38](images/Day%2038-1.png)
 ![Day 38](images/Day%2038-2.png)
+
+:trumpet: *DAY 39 of 60: August 5, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I voted for my own t-shirt design number 117, in the #sg_project-t-shirt competition. You can vote for your favorite t-shirt here: https://docs.google.com/forms/d/e/1FAIpQLScLVfUl0myUHJHpY3rsc2YcYYSP5ozj20Yjz4SGNkxcXZeBOw/viewform<br/>
+:heavy_check_mark: I noticed I was one of the winners of the competition *Boom with the Basics*. Moderators selected my answer to the Question 4: Explain LSTM hyperparameter tuning? https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1565011524441700<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1565015416446100<br/>
+:heavy_check_mark: I'm preparing the PDF presentation for our webinar on *Deep Reinforcement Learning*, with @Helena Barmer: https://secureprivataischolar.slack.com/archives/CL18TQ06N/p1564960046169500<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+![Day 39](images/Day%2039.jpeg)
