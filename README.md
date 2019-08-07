@@ -489,3 +489,25 @@ https://secureprivataischolar.slack.com/archives/CL18TQ06N/p1564974066173700<br/
 - How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
 - The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
 ![Day 39](images/Day%2039.jpeg)
+
+:trumpet: *DAY 40 of 60: August 6, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I'm preparing and translating from Spanish to English the PDF presentation for our webinar on *Deep Reinforcement Learning*, with @Helena Barmer, that we will give on this Friday, August 9 at 15:00 (GMT-5): https://secureprivataischolar.slack.com/archives/CL18TQ06N/p1564960046169500<br/>
+Here is the lecture I gave in Spanish at ESPOL:<br/>
+
+======================================================<br/>
+Deep Reinforcement Learning (IEEE Computer Society)<br/>
+https://youtu.be/rf91xKkoP6w<br/>
+II Conference of Innovation and Technology<br/>
+A Date with AI<br/>
+#ADateWithAI #IEEE_CS #JIT2019<br/>
+Download the PDF presentation: http://bit.do/DeepRL<br/>
+
+======================================================<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+![Day 40](images/Day%2040-1.png)
+![Day 40](images/Day%2040-2.png)
