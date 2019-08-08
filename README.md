@@ -511,3 +511,15 @@ Download the PDF presentation: http://bit.do/DeepRL<br/>
 - The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
 ![Day 40](images/Day%2040-1.png)
 ![Day 40](images/Day%2040-2.png)
+
+:trumpet: *DAY 41 of 60: August 7, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I translated from Spanish to English the PDF presentation for our webinar on *Deep Reinforcement Learning*, with @Helena Barmer, that we will give on this Friday, August 9 at 15:00 (GMT-5). Here is the PDF presentation in English: http://bit.do/DeepRL2<br/>
+:heavy_check_mark: I'm thinking deeply about how to translate a PID Planner for Self-Driving Cars, that I programmed for the OMS CS course Artificial Intelligence for Robotics, into a vectorial field of rewards, for the *AWS DeepRacer Scholarship Challenge*. Here is the video of my PID Planner: https://youtu.be/l3SPtWqA8m8<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+![Day 41](images/Day%2041-1.png)
+![Day 41](images/Day%2041-2.png)
