@@ -523,3 +523,16 @@ Download the PDF presentation: http://bit.do/DeepRL<br/>
 - The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
 ![Day 41](images/Day%2041-1.png)
 ![Day 41](images/Day%2041-2.png)
+
+:trumpet: *DAY 42 of 60: August 8, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I had a Zoom meeting with @Helena Barmer in order to test 2 technical aspects of Zoom for our Deep RL webinar: How to share my screen and how to save the video. However, we noticed our Internet connection experienced some glitches when I shared my screen, to show my Deep RL presentation and the demo video of Lunar Lander. We didn't know the cause of the problem. But then I noticed I have an Ultra HD monitor in my computer, which is equivalent to the resolution of 4 HD monitors combined. So, even the best Internet connection is not enough to share an Ultra HD screen (3840 x 2160 pixels) many times per second from Ecuador to Sweden. Our videocall via Zoom collapsed as expected. We hope to test the videocall again tomorrow, with a much lower screen resolution.<br/>
+:heavy_check_mark: I will include some tips and thoughts about the *AWS DeepRacer Scholarship Challenge* in our Deep RL webinar.<br/>
+:heavy_check_mark: I'm writing a little blog about *Deep Learning* for the *MATHS BLOGGING COMPETITION*. I will take some ideas from my Deep RL presentation <http://bit.do/DeepRL2>. Here is the link of the *MATHS BLOGGING COMPETITION*: https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1565257101012100<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+![Day 42](images/Day%2042-1.png)
+![Day 42](images/Day%2042-2.jpeg)
