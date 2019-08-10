@@ -536,3 +536,17 @@ Download the PDF presentation: http://bit.do/DeepRL<br/>
 - The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
 ![Day 42](images/Day%2042-1.png)
 ![Day 42](images/Day%2042-2.jpeg)
+
+:trumpet: *DAY 43 of 60: August 9, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1565361005025200<br/>
+:heavy_check_mark: Today, we gave a webinar on Deep Reinforcement Learning with @Helena Barmer as the moderator. Thank all the participants for your time. It was a really long webinar. It lasted 2 hours 27 minutes! https://secureprivataischolar.slack.com/archives/CL18TQ06N/p1565392215294000<br/>
+:heavy_check_mark: I also had a private meeting with @Helena Barmer via Zoom in order to fix all the technical problems when sharing my screen and recording our video. *We were really scared* because we had many technical problems 1 hour before the Deep RL webinar. Fortunately, we found many ways to overcome all those technical problems and our webinar was successful without Internet glitches.<br/>
+:heavy_check_mark: I'm writing a little blog about *Deep Learning* for the *MATHS BLOGGING COMPETITION*. I will take some ideas from my Deep RL presentation <http://bit.do/DeepRL2>. Here is the link of the *MATHS BLOGGING COMPETITION*: https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1565257101012100<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+![Day 43](images/Day%2043-1.png)
+![Day 43](images/Day%2043-2.png)
