@@ -579,3 +579,17 @@ Download the PDF presentation: http://bit.do/DeepRL<br/>
 - Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
 - How and Why Deep Learning Works (Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
 ![Day 45](images/Day%2045.png)
+
+:trumpet: *DAY 46 of 60: August 12, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. (This time only @Agata [OR, USA] and I participated, nobody else.) :joy: https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1565620471076300<br/>
+:heavy_check_mark: I read this useful link *PyTorch Cheat Sheet*: https://pytorch.org/tutorials/beginner/ptcheat.html<br/>
+:heavy_check_mark: I'm studying the Jupyter notebooks associated to the video lectures of SPAIC in order to program the Secure AI part of my final project. So far, I have programmed the machine learning part. I've been busy doing the multiple activities of SPAIC. Now it's time to focus on the final project.<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
+![Day 46](images/Day%2046.png)
