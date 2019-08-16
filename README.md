@@ -626,17 +626,17 @@ Download the PDF presentation: http://bit.do/DeepRL<br/>
 
 ![Day 48](images/Day%2048.png)
 
-:trumpet: *DAY 49 of 60: August 15, 2019* #60daysofudacity #UdacityFacebookScholar
-:heavy_check_mark: I'm desperate because the deadline for the *Project Showcase Challenge* is August 20th, 2019 at 11:59 pm GMT. :fearful: :fearful: :fearful: :fearful: :fearful: 
-:heavy_check_mark: I'm studying the Jupyter notebooks associated to the video lectures of SPAIC in order to program the Secure AI part of my final project. So far, I have programmed the machine learning part. I've been distracted doing the other multiple activities of SPAIC. Now it's time to focus on the final project.
-:heavy_check_mark: I debugged and finally understood a programming error when training my machine learning model through federated learning, for my final project.
-:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.
-:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:
-- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity
-- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset
-- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt
-- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot
-- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0
+:trumpet: *DAY 49 of 60: August 15, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I'm desperate because the deadline for the *Project Showcase Challenge* is August 20th, 2019 at 11:59 pm GMT. :fearful: :fearful: :fearful: :fearful: :fearful: <br/>
+:heavy_check_mark: I'm studying the Jupyter notebooks associated to the video lectures of SPAIC in order to program the Secure AI part of my final project. So far, I have programmed the machine learning part. I've been distracted doing the other multiple activities of SPAIC. Now it's time to focus on the final project.<br/>
+:heavy_check_mark: I debugged and finally understood a programming error when training my machine learning model through federated learning, for my final project.<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
 - How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f
 
 ![Day 49](images/Day%2049.png)
