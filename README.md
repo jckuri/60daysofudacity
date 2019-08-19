@@ -675,3 +675,19 @@ And this bug is related to this OpenMined/PySyft issue: https://github.com/OpenM
 ![Day 51](images/Day51-1.png)
 ![Day 51](images/Day51-2.png)
 ![Day 51](images/Day51-3.png)
+
+:trumpet: *DAY 52 of 60: August 18, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I'm desperate because the deadline for the *Project Showcase Challenge* is August 20th, 2019 at 11:59 pm GMT. :fearful:<br/>
+:heavy_check_mark: In our final project *Federated Learning with Raspberry PI (PySyft)* of our team #sg_pytorch-robotics, I wrote part of the wiki about *Future implementations*. Here is the link: https://github.com/shashigharti/federated-learning-on-raspberry-pi/wiki/Future-implementations<br/>
+:heavy_check_mark: I've successfully programmed *Federated Learning with a Trusted Aggregator*, for my final project. By training the ML model in a federated way in 4 different hospitals, *the ML model quickly achieves 100% accuracy in both the training dataset and the testing dataset.* It needs less iterations than non-federated learning does. I already updated my github repository: https://github.com/jckuri/BladderDataset<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
+
+![Day 52](images/Day52-1.png)
+![Day 52](images/Day52-2.png)
