@@ -692,6 +692,19 @@ And this bug is related to this OpenMined/PySyft issue: https://github.com/OpenM
 ![Day 52](images/Day52-1.png)
 ![Day 52](images/Day52-2.png)
 
+:trumpet: *DAY 53 of 60: August 19, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I'm desperate because the deadline for the *Project Showcase Challenge* is August 20th, 2019 at 11:59 pm GMT. :fearful:<br/>
+:heavy_check_mark: Our team #sg_pytorch-robotics is happy and proud that we finally submitted our project *Federated Learning with Raspberry PI (PySyft)* for the *Project Showcase Challenge*. Here is the website of our project: https://pytorch-robotics.herokuapp.com/<br/>
+:heavy_check_mark: I've successfully programmed *Federated Learning with a Trusted Aggregator*, for my final project. By training the ML model in a federated way in 4 different hospitals, *the ML model achieves 100% accuracy in both the training dataset and the testing dataset.* I corrected many bugs. I trained 2 separate models, one for each disease. I drew the learning curves *Training Loss* and *Training Accuracy* versus *Iterations* for all 4 hospitals, 4 separate curves in the same 2 graphs. The curves are not lines; they are rather regions. Why? Because each iteration is complex: First, 5 local iterations in each worker. Then, 4 different models are sent to the trusted aggregator that averages them. Finally, the averaged model is sent back to the 4 hospitals. That's why the progress in the learning curves goes back and forth. The graph has 1000 iterations. That's why the curves becomes regions. Because the curves go back and forth too often and are quite dense. I already updated my github repository: https://github.com/jckuri/BladderDataset<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1566225024161800<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/jckuri/BladderDataset<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
 
 ![Day 53](images/Day53-1.png)
 ![Day 53](images/Day53-2.png)
