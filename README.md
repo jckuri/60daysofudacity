@@ -708,3 +708,21 @@ And this bug is related to this OpenMined/PySyft issue: https://github.com/OpenM
 
 ![Day 53](images/Day53-1.png)
 ![Day 53](images/Day53-2.png)
+
+:trumpet: *DAY 54 of 60: August 20, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I've fully documented and successfully submitted my final project called *Diagnosing Acute Inflammations of Bladder* for the *Project Showcase Challenge*. :sunglasses: :joy:<br/>
+Here is the link of my submission:<br/>
+https://github.com/aksht94/UdacityOpenSource/tree/master/Juan%20Carlos%20Kuri%20Pinto<br/>
+And here is the submitted Jupyter notebook of my final project:<br/>
+https://github.com/aksht94/UdacityOpenSource/blob/master/Juan%20Carlos%20Kuri%20Pinto/Bladder%20Dataset.ipynb<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani, @Ronit, @Soumya Nasipuri, @Ivy. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/aksht94/UdacityOpenSource/tree/master/Juan%20Carlos%20Kuri%20Pinto<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
+
+![Day 54](images/Day54-1.png)
+![Day 54](images/Day54-2.png)
