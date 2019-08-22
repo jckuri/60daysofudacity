@@ -740,4 +740,4 @@ https://github.com/aksht94/UdacityOpenSource/blob/master/Juan%20Carlos%20Kuri%20
 - Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
 - How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
 
-![Day 55](images/Day55.png)
+![Day 55](images/Day55.jpg)
