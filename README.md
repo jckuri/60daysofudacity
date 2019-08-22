@@ -727,17 +727,17 @@ https://github.com/aksht94/UdacityOpenSource/blob/master/Juan%20Carlos%20Kuri%20
 ![Day 54](images/Day54-1.png)
 ![Day 54](images/Day54-2.png)
 
-:trumpet: *DAY 55 of 60: August 21, 2019* #60daysofudacity #UdacityFacebookScholar
-:heavy_check_mark: I'm trying to run a *DeepRacer Simulation based on AWS RoboMaker* in my machine. :crossed_fingers: 
-:heavy_check_mark: I'm thinking about an essay I will write for the *Math Blogging Competition*. My essay will be about *How to Make Deep Learning many Orders of Magnitude Faster*.
-:heavy_check_mark: I'm thinking about an essay I will write for the *Advanced Level* of the *Blogging Competition*. My essay will be about *The Learning Curves of Federated Learning with a Trusted Aggregator*.
-:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani, @Ronit, @Soumya Nasipuri, @Ivy, @Tracy Adams. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.
-:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:
-- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity
-- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/aksht94/UdacityOpenSource/tree/master/Juan%20Carlos%20Kuri%20Pinto
-- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt
-- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot
-- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0
-- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f
+:trumpet: *DAY 55 of 60: August 21, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: I'm trying to run a *DeepRacer Simulation based on AWS RoboMaker* in my machine. :crossed_fingers: <br/>
+:heavy_check_mark: I'm thinking about an essay I will write for the *Math Blogging Competition*. My essay will be about *How to Make Deep Learning many Orders of Magnitude Faster*.<br/>
+:heavy_check_mark: I'm thinking about an essay I will write for the *Advanced Level* of the *Blogging Competition*. My essay will be about *The Learning Curves of Federated Learning with a Trusted Aggregator*.<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani, @Ronit, @Soumya Nasipuri, @Ivy, @Tracy Adams. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/aksht94/UdacityOpenSource/tree/master/Juan%20Carlos%20Kuri%20Pinto<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
 
 ![Day 55](images/Day55.png)
