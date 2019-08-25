@@ -784,7 +784,6 @@ I used `<p align="center">` instead of `<center>`, like this:<br/>
  <img src="images/federated-learning.png">
 </p>
 ```
-<br/>
 :heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani, @Ronit, @Soumya Nasipuri, @Ivy, @Tracy Adams. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
 :eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
 - My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
