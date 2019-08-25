@@ -776,7 +776,7 @@ https://github.com/aksht94/UdacityOpenSource/blob/master/Juan%20Carlos%20Kuri%20
 
 :trumpet: *DAY 58 of 60: August 24, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
 :heavy_check_mark: I wrote and submitted my essay *The Learning Curves of Federated Learning with a Trusted Aggregator*, for the *Advanced Level* of the *Blogging Competition*: https://medium.com/secure-and-private-ai-writing-challenge/the-learning-curves-of-federated-learning-with-a-trusted-aggregator-8a7bd4589a32<br/>
-:heavy_check_mark: I noticed an error github makes when it publishes Jupyter notebooks: Everything inside the tags \<center\>\</center\> is ignored! That's why a graph about Federated Learning does not appear in my published Jupyter notebook: https://github.com/aksht94/UdacityOpenSource/blob/master/Juan%20Carlos%20Kuri%20Pinto/Bladder%20Dataset.ipynb<br/>
+:heavy_check_mark: I noticed an error github makes when it publishes Jupyter notebooks: Everything inside the tags `<center></center>` is ignored! That's why a graph about Federated Learning does not appear in my published Jupyter notebook: https://github.com/aksht94/UdacityOpenSource/blob/master/Juan%20Carlos%20Kuri%20Pinto/Bladder%20Dataset.ipynb<br/>
 Fortunately, I found a way to overcome this problem and I corrected my mistake in my personal github repository: https://github.com/jckuri/BladderDataset/blob/master/Bladder%20Dataset.ipynb<br/>
 I used `<p align="center">` instead of `<center>`, like this:<br/>
 ```
