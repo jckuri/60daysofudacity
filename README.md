@@ -816,3 +816,25 @@ I used `<p align="center">` instead of `<center>`, like this:<br/>
 - The Learning Curves of Federated Learning with a Trusted Aggregator (Advanced Level of the Blogging Competition):https://medium.com/secure-and-private-ai-writing-challenge/the-learning-curves-of-federated-learning-with-a-trusted-aggregator-8a7bd4589a32<br/>
 
 ![Day 59](images/Day59.png)
+
+:trumpet: *DAY 60 of 60: August 26, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance:<br/>
+:heavy_check_mark: *I completed the #60daysofudacity pledge.*<br/>
+:penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance::penguin_dance:<br/>
+But I will continue keeping track of my daily activities until the SPAIC ends.<br/>
+:heavy_check_mark: Today, I participated again in the competition *Boom with the Basics* in the channel #beginners. I answered 4 questions about artificial intelligence and security, 15 minutes per question. This contest was *1 intense hour* of writing answers. https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1566829820244300<br/>
+:heavy_check_mark: Today, I posted my final project for the #project-showcase-challenge. Please vote (clap :clapping: ) for my final project: https://secureprivataischolar.slack.com/archives/CMHLLUAE5/p1566842950314500<br/>
+:heavy_check_mark: I'm programming my robotic car for the *AWS DeepRacer Scholarship Challenge*. But I'm not sure if I will participate in the first race.<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani, @Ronit, @Soumya Nasipuri, @Ivy, @Tracy Adams. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder": https://github.com/aksht94/UdacityOpenSource/tree/master/Juan%20Carlos%20Kuri%20Pinto<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
+- How to Make Deep Learning many Orders of Magnitude Faster (Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc<br/>
+- The Learning Curves of Federated Learning with a Trusted Aggregator (Advanced Level of the Blogging Competition):https://medium.com/secure-and-private-ai-writing-challenge/the-learning-curves-of-federated-learning-with-a-trusted-aggregator-8a7bd4589a32<br/>
+
+![Day 60](images/Day60-1.jpg)
+![Day 60](images/Day60-2.png)
