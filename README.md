@@ -873,3 +873,21 @@ But I will continue keeping track of my daily activities until the SPAIC ends.<b
 
 ![Day 62](images/Day62-1.png)
 ![Day 62](images/Day62-2.png)
+
+:trumpet: *DAY 63 of 60: August 29, 2019* #60daysofudacity #UdacityFacebookScholar<br/>
+:heavy_check_mark: My final project "Diagnosing Acute Inflammations of Bladder" won the 5th place in the #project-showcase-challenge: https://secureprivataischolar.slack.com/archives/CJQ1C1X08/p1567121551102600<br/>
+:heavy_check_mark: Our final project "Federated Learning on Raspberry PIs" won the 3rd place in the #project-showcase-challenge. Congratulations to our Team Members: @Ebinbin Ajagun @Temitope Oladokun @Shivam Raisharma @Jess @Sankalp Dayal @Sushil Ghimire@Pooja Vinod @Juan Carlos Kuri Pinto @Alex Ahumada @Shashi Gharti @cibaca @Nirupama Singh @Elena Kutanov @Helena Barmer @Ayesha Manzur @Ivy @Joyce  @Suparna S Nair @Sayed Maheen Basheer @Sergio Valderrama @Stanislav Ladyzhenskiy @Mika @Muhammad Naufil<br/>
+Project Link: https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Learning%20on%20Raspberry%20PIs<br/>
+:heavy_check_mark: "Top 5 Projects will be featured in the official report for the program presented to the Facebook Team." :heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes:<br/>
+:heavy_check_mark: I motivate my classmates from Ecuador and Spain in the channel #sg_ecuador: @Christian Tutivén, @Gustavo Cevallos, @ssalvatierra, @Ruben Romo, @dfdavila, and @Santiago Frias. I also encourage back my classmates from the world: @Khush, @Sankalp Dayal, @Frida, @Ricardo Pretelt, @Sourav, @EPR, @Yaak, @PaulBruce, @Droid, @Jaiki Yadav, @iso., @Fustincho, @Pranjal Chaubey, @susyjam, @Helena Barmer, @Daniela Cardona, @risper bevalyn, @Elizabeth W, @Ayesha Manzur, @LauraT, @Ebinbin Ajagun, @Lisa Crossman, @Samuela Anastasi, @Muhammad Naufil, @Elena Kutanov, @Sayed Maheen Basheer, @Oudarjya Sen Sarma, @Suparna S Nair, @Bhadresh Savani, @Dammy, @Diganta, @Ayesha Manzur, @Sridhar Ethiraj, @Abhishek Lalwani, @Ronit, @Soumya Nasipuri, @Ivy, @Tracy Adams. I encourage all of them to continue doing the activities of #UdacityFacebookScholar, specially the pledge #60daysofudacity.<br/>
+:eye: P.S. Here are the GitHub repositories and links I created for the Secure & Private AI Scholarship Challenge:<br/>
+- My daily activities with photos for the #60daysofudacity pledge: https://github.com/jckuri/60daysofudacity<br/>
+- My final project "Diagnosing Acute Inflammations of Bladder" (5th Place in the #project-showcase-challenge): https://github.com/aksht94/UdacityOpenSource/tree/master/Juan%20Carlos%20Kuri%20Pinto<br/>
+- How I programmed my t-shirt designs for the #sg_project-t-shirt competition: https://github.com/jckuri/project-t-shirt<br/>
+- The documentation, electronic parts, and source code of my line-follower robot for the study group #sg_pytorch-robotics: https://github.com/jckuri/line-follower-robot<br/>
+- Webinar on Deep Reinforcement Learning (YouTube video): https://youtu.be/oauLZG9nAX0<br/>
+- How and Why Deep Learning Works (Second place in the Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f<br/>
+- How to Make Deep Learning many Orders of Magnitude Faster (Math Blogging Competition): https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc<br/>
+- The Learning Curves of Federated Learning with a Trusted Aggregator (Advanced Level of the Blogging Competition):https://medium.com/secure-and-private-ai-writing-challenge/the-learning-curves-of-federated-learning-with-a-trusted-aggregator-8a7bd4589a32<br/>
+
+![Day 63](images/Day63.jpg)
